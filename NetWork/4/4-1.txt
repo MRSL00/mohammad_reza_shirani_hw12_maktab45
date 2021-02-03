@@ -1,0 +1,5 @@
+1-Apache HTTP Server ---> 52%
+2-NGINX ---> 30%
+3-Apache Tomcat ---> under 1%
+4-Node.js ---> 0.2%
+5-Lighttpd ---> 0.1%
